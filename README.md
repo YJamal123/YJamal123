@@ -7,14 +7,14 @@ Senior CS student at Cornell University's College of Engineering. I work across 
 
 ## Featured project
 
-### Sideline2Sideline
+### [Sideline2Sideline](https://www.s2sfantasy.com/)
 An NFL fantasy football analytics platform. It pairs a standard rankings table with ten contextual variables — venue splits, red zone opportunity share, revenge-game flags, coach tendencies, and market signals — that mainstream fantasy tools scatter across three or four different sites.
 
 - Python ingestion pipeline + REST API + React dashboard
 - Trained XGBoost model and an OLS fit-on-demand capability, both callable through a single swappable inference harness
 - A prediction ledger that records every weekly projection *before* the games and scores it after
 
-Private repo — reach out if you'd like a look.
+Live at [s2sfantasy.com](https://www.s2sfantasy.com/). The source is a private repo — reach out if you'd like a look.
 
 ## Other projects
 
